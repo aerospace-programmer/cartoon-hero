@@ -6,7 +6,7 @@ body{
 	line-height: 30px;
 }
 
-
+/* header styles */
 header{
 	background-color: #d14635;
 	text-align: center;
@@ -30,9 +30,7 @@ main {
 	padding: 20px;
 }
 
-main img{
-	max-width: 100%;
-}
+/*main img{	max-width: 100%; }*/
 
 h2{
 	font-size: 35px;
@@ -73,7 +71,8 @@ footer a:hover{
 }
 
 p.caption{
-	color: #999999;
+	color: brown;
 	font-style: italic;
-	margin-top: 0;
+	font-size: 10px;
+	margin-top: 0px;
 }
